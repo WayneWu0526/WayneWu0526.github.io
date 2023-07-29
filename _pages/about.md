@@ -17,11 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m a post-graduate student at Automation School, Beijing Institute of Technology, and received B.Eng. degree from the College of Information Science and Technology, Beijing University of Chemical Technology (BUCT). As a member of the <a href='https://csicdgz.bit.edu.cn/index.htm'>State Key Laboratory of Intelligent Control and Decision of Complex Systems</a>, I’m supervised by <a href='https://ieeexplore.ieee.org/author/37407600100'>Prof. Zhan Jinhui</a> (outstanding young scholars). 
+I’m a post-graduate student at Automation School, Beijing Institute of Technology, and received B.Eng. degree from the College of Information Science and Technology, Beijing University of Chemical Technology (BUCT). As a member of the <a href='https://csicdgz.bit.edu.cn/index.htm'>State Key Laboratory of Intelligent Control and Decision of Complex Systems</a>, I’m supervised by <a href='https://ieeexplore.ieee.org/author/37407600100'>Prof. Zhan Jinhui</a> (outstanding young scholars). I also collaborate with [Siyi Wei (魏思亿) academic profile - Homepage](https://siyiwei.github.io/) closely.
 
-My research interests include medical robot, Model Predictive Control, and Active Disturbance Rejection Control.
-
-Please contact me via my email for any questions about MATLAB and control theory:laughing:！
+My current research focus is on magnetic soft continuum medical robots, and I am working on developing semi/fully autonomous endovascular surgical systems to provide vascular intervention surgeons with magnetic actuation solutions! Please feel free to contact me for any inquiries or collaboration opportunities. (*email: zhiweiwu.cn@outlook.com*)
 
 <!--
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
@@ -43,20 +41,54 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJWR</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Deflecting Control of Magnetic Soft Continuum Robots
 
-International Journal of Water Reasearch
+Magnetic Manipulating Medical Soft Continuum Robots
+
+International Journal of Water Research 
 
 **Zhiwei Wu**, Jinhui Zhang
 
 ---
 
-About to finish
+About to start
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMECH</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+Closed-Loop Magnetic Control of Medical Soft Continuum Robots for Deflection
+
+IEEE/ASME Transactions on Mechatronics
+
+**Zhiwei Wu**, Jinhui Zhang
+
+---
+
+Under review
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BBE</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+Soft Continuum Magnetically Actuated Guidewire with Steerable Motility and Morphology for Percutaneous Transluminal Angioplasty
+
+Biocybernetics and Biomedical Engineering
+
+Siyi Wei, Jinhui Zhang, **Zhiwei Wu**, Duanduan Chen
+
+---
+
+Under Review
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIE</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 
 Magnetic Robot for Endovascular Intervention:
 Performance Evaluation
@@ -87,7 +119,7 @@ Under Review
 
 [Trajectory Tracking of a Novel Underactuated AUV via Nonsingular Integral Terminal Sliding Mode Control](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9492070)
 
-|IEEE Access|07-20-2021|IF:3.476 |Citations:2|
+|IEEE Access|07-20-2021|IF:3.476 |Citations:6|
 
 **ZHIWEI WU**, HAOSONG PENG*, BIAO HU, AND XIAODONG FENG
 </div>
