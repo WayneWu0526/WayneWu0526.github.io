@@ -19,7 +19,7 @@ redirect_from:
 
 I’m a post-graduate student at Automation School, Beijing Institute of Technology, and received B.Eng. degree from the College of Information Science and Technology, Beijing University of Chemical Technology (BUCT). As a member of the <a href='https://csicdgz.bit.edu.cn/index.htm'>State Key Laboratory of Intelligent Control and Decision of Complex Systems</a>, I’m supervised by <a href='https://ieeexplore.ieee.org/author/37407600100'>Prof. Zhan Jinhui</a> (outstanding young scholars). I also collaborate with [Siyi Wei (魏思亿) academic profile - Homepage](https://siyiwei.github.io/) closely.
 
-My current research focus is on magnetic soft continuum medical robots, and I am working on developing semi/fully autonomous endovascular robotic-surgical system to provide vascular intervention surgeons with magnetic actuation solutions! Please feel free to contact me for any inquiries or collaboration opportunities. (*email: zhiweiwu.cn@outlook.com*)
+My current research focus is on magnetic soft continuum medical robots, and I am working on developing semi/fully autonomous robot assisted microsurgery to provide vascular intervention surgeons with magnetic actuation solutions! Please feel free to contact me for any inquiries or collaboration opportunities. (*email: zhiweiwu.cn@outlook.com*)
 
 <!--
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
@@ -62,7 +62,7 @@ Closed-Loop Magnetic Control of Medical Soft Continuum Robots for Deflection
 
 IEEE/ASME Transactions on Mechatronics
 
-**Zhiwei Wu**, Jinhui Zhang
+**Zhiwei Wu**, Jinhui Zhang*
 
 ---
 
@@ -78,7 +78,7 @@ Soft Continuum Magnetically Actuated Guidewire with Steerable Motility and Morph
 
 Biocybernetics and Biomedical Engineering
 
-Siyi Wei, Jinhui Zhang, **Zhiwei Wu**, Duanduan Chen
+Siyi Wei, Jinhui Zhang*, **Zhiwei Wu**, Duanduan Chen
 
 ---
 
@@ -95,7 +95,7 @@ Performance Evaluation
 
 IEEE Transactions on Industrial Electronics
 
-Siyi Wei, Jinhui Zhang, **Zhiwei Wu**, Duanduan Chen
+Siyi Wei, Jinhui Zhang*, **Zhiwei Wu**, Duanduan Chen
 
 ---
 
