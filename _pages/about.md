@@ -30,6 +30,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 *2022.07.09* &nbsp;🎉🎉 Received an offer of admission (academic graduate student) from the School of Automation, Beijing Institute of Technology!
 
+*2023.11.18* &nbsp;🎉🎉 Congratulations on the acceptance of the paper in IEEE Transactions on Industrial Electronics!
+
 <!--
 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -86,20 +88,17 @@ Under Review
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIE</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIE</div><img src='images/2023paper1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
 
 
 Magnetic Robot for Endovascular Intervention:
 Performance Evaluation
 
-IEEE Transactions on Industrial Electronics
+|IEEE Transactions on Industrial Electronics (Top)|18-11-2023|IF:7.7|
 
 Siyi Wei, Jinhui Zhang*, **Zhiwei Wu**, Duanduan Chen
-
----
-
-Under Review
 </div>
 </div>
 
