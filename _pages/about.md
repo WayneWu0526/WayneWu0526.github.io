@@ -114,8 +114,6 @@ Siyi Wei, Jinhui Zhang*, **Zhiwei Wu**, Duanduan Chen
 </div>
 
 Zhiwei Wu, Haosong Peng<sup>*</sup>, Biao Hu, Xiaodong Feng, [Trajectory Tracking of a Novel Underactuated AUV via Nonsingular Integral Terminal Sliding Mode Control](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9492070), *IEEE Access*, 2021.
-</div>
-</div>
 
 # 🎖 Honors and Awards
 
