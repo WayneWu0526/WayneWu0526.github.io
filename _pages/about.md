@@ -96,7 +96,7 @@ Under Review
 Magnetic Robot for Endovascular Intervention:
 Performance Evaluation
 
-|IEEE Transactions on Industrial Electronics (Top)|18-11-2023|IF:7.7|
+|IEEE Transactions on Industrial Electronics |18-11-2023|IF:7.7|JCR Q1|中科院 1区 Top|
 
 Siyi Wei, Jinhui Zhang*, **Zhiwei Wu**, Duanduan Chen
 </div>
@@ -107,20 +107,13 @@ Siyi Wei, Jinhui Zhang*, **Zhiwei Wu**, Duanduan Chen
 
 [Kirchhoff rod-based three-dimensional dynamical model and real-time simulation for medical-magnetic guidewires](https://www.sciencedirect.com/science/article/pii/S0169260723003115?via%3Dihub)
 
-|Computer Methods and Programs in Biomedicine|01-16-2023|IF:7.027|
+|Computer Methods and Programs in Biomedicine|01-16-2023|IF:7.027|JCR Q1|中科院 2区 Top|
 
 **Zhiwei Wu**, Jinhui Zhang*, Siyi Wei, Duanduan Chen
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Access</div><img src='images/2021paper.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Trajectory Tracking of a Novel Underactuated AUV via Nonsingular Integral Terminal Sliding Mode Control](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9492070)
-
-|IEEE Access|07-20-2021|IF:3.476 |Citations:6|
-
-**ZHIWEI WU**, HAOSONG PENG*, BIAO HU, AND XIAODONG FENG
+Zhiwei Wu, Haosong Peng*, Biao Hu, Xiaodong Feng, [Trajectory Tracking of a Novel Underactuated AUV via Nonsingular Integral Terminal Sliding Mode Control](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9492070), *IEEE Access*, 2021.
 </div>
 </div>
 
