@@ -48,7 +48,7 @@ Magnetic Manipulating Medical Soft Continuum Robots
 
 International Journal of Water Research 
 
-<span class="underline">Zhiwei Wu</span>, Jinhui Zhang<sup>*</sup>
+<u>Zhiwei Wu</u>, Jinhui Zhang<sup>*</sup>
 
 ---
 
@@ -64,7 +64,7 @@ Closed-Loop Magnetic Control of Medical Soft Continuum Robots for Deflection
 
 IEEE/ASME Transactions on Mechatronics
 
-<span class="underline">Zhiwei Wu</span>, Jinhui Zhang<sup>*</sup>
+<u>Zhiwei Wu</u>, Jinhui Zhang<sup>*</sup>
 
 ---
 
@@ -80,7 +80,7 @@ Soft Continuum Magnetically Actuated Guidewire with Steerable Motility and Morph
 
 Biocybernetics and Biomedical Engineering
 
-Siyi Wei, Jinhui Zhang<sup>*</sup>, <span class="underline">Zhiwei Wu</span>, Duanduan Chen
+Siyi Wei, Jinhui Zhang<sup>*</sup>, <u>Zhiwei Wu</u>, Duanduan Chen
 
 ---
 
@@ -98,7 +98,7 @@ Performance Evaluation
 
 |IEEE Transactions on Industrial Electronics |18-11-2023|IF:7.7|JCR Q1|中科院 1区 Top|
 
-Siyi Wei, Jinhui Zhang<sup>*</sup>, <span class="underline">Zhiwei Wu</span>, Duanduan Chen
+Siyi Wei, Jinhui Zhang<sup>*</sup>, <u>Zhiwei Wu</u>, Duanduan Chen
 </div>
 </div>
 
@@ -109,11 +109,13 @@ Siyi Wei, Jinhui Zhang<sup>*</sup>, <span class="underline">Zhiwei Wu</span>, Du
 
 |Computer Methods and Programs in Biomedicine|01-16-2023|IF:7.027|JCR Q1|中科院 2区 Top|
 
-<span class="underline">Zhiwei Wu</span>, Jinhui Zhang<sup>*</sup>, Siyi Wei, Duanduan Chen
+<u>Zhiwei Wu</u>, Jinhui Zhang<sup>*</sup>, Siyi Wei, Duanduan Chen
 </div>
 </div>
 
-<span class="underline">Zhiwei Wu</span>, Haosong Peng<sup>*</sup>, Biao Hu, Xiaodong Feng, [Trajectory Tracking of a Novel Underactuated AUV via Nonsingular Integral Terminal Sliding Mode Control](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9492070), *IEEE Access*, 2021.
+<div markdown="1">
+<u>Wu, Zhiwei</u>, Haosong Peng<sup>*</sup>, Biao Hu, and Xiaodong Feng. " [Trajectory Tracking of a Novel Underactuated AUV via Nonsingular Integral Terminal Sliding Mode Control](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9492070)",. IEEE Access 9 (2021): 103407-103418.,
+</div>
 
 # 🎖 Honors and Awards
 
