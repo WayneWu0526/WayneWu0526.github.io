@@ -38,7 +38,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 -->
 
-# 📝 Publications 
+# 📝 Publications (Graduated Student)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJWR</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -113,13 +113,16 @@ Siyi Wei, Jinhui Zhang<sup>*</sup>, <u>Zhiwei Wu</u>, Duanduan Chen
 </div>
 </div>
 
+# 📝 Publications (Undergraduat Student)
+
 <div markdown="1">
 <u>Zhiwei Wu</u>, Haosong Peng<sup>*</sup>, Biao Hu, and Xiaodong Feng. " [Trajectory Tracking of a Novel Underactuated AUV via Nonsingular Integral Terminal Sliding Mode Control](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9492070)",. IEEE Access 9 (2021): 103407-103418.,
 </div>
 
 # 🎖 Honors and Awards
-
-- *2023.01* National Post-Graduate Mathematical Contest in Modeling (National Third Prize)
+-*2023.12* 第二十届全国研究生数学建模竞赛 国家一等奖，华为专项一等奖，数模之星“全国冠军” （1/19898）（队长）
+- *2023.06* Mathorcup全国研究生数学建模竞赛 国家二等奖（队长）
+- *2023.01* 第十九届“中国光谷·华为杯”研究生数学建模竞赛 国家三等奖（队长）
 - *2021.10* National Scholarship (Undergraduate) (Top 1%).
 - *2021.04* Mathematical Contest In Modeling ([Finalist](https://maifile.cn/dec/d59340216056@doc)) (Top 1%) ([paper](https://maifile.cn/dec/d54874217744@doc)).
 - *2020.10* Contemporary Undergraduate Mathematical Contest In Modeling ([Secondary](https://maifile.cn/dec/d56949216514@doc)) (Top 3%).
