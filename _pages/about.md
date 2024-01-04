@@ -113,14 +113,14 @@ Siyi Wei, Jinhui Zhang<sup>*</sup>, <u>Zhiwei Wu</u>, Duanduan Chen
 </div>
 </div>
 
-# 📝 Publications (Undergraduat Student)
+# 📝 Publications (Undergraduate Student)
 
 <div markdown="1">
 <u>Zhiwei Wu</u>, Haosong Peng<sup>*</sup>, Biao Hu, and Xiaodong Feng. " [Trajectory Tracking of a Novel Underactuated AUV via Nonsingular Integral Terminal Sliding Mode Control](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9492070)",. IEEE Access 9 (2021): 103407-103418.,
 </div>
 
 # 🎖 Honors and Awards
--*2023.12* 第二十届全国研究生数学建模竞赛 国家一等奖，华为专项一等奖，数模之星“全国冠军” （1/19898）（队长）
+- *2023.12* 第二十届全国研究生数学建模竞赛 国家一等奖，华为专项一等奖，数模之星“全国冠军” （1/19898）（队长）
 - *2023.06* Mathorcup全国研究生数学建模竞赛 国家二等奖（队长）
 - *2023.01* 第十九届“中国光谷·华为杯”研究生数学建模竞赛 国家三等奖（队长）
 - *2021.10* National Scholarship (Undergraduate) (Top 1%).
