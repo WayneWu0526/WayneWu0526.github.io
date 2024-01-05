@@ -93,10 +93,9 @@ Under Review
 
 
 
-Magnetic Robot for Endovascular Intervention:
-Performance Evaluation
+[Magnetic Robot for Endovascular Intervention: Performance Evaluation](https://doi.org/10.1109/TIE.2023.3340205)
 
-|IEEE Transactions on Industrial Electronics |18-11-2023|IF:7.7|JCR Q1|中科院 1区 Top期刊|
+|IEEE Transactions on Industrial Electronics |18-11-2023|IF:7.7|JCR Q1|中科院1区 Top期刊|
 
 Siyi Wei, Jinhui Zhang<sup>*</sup>, <u>Zhiwei Wu</u>, Duanduan Chen
 </div>
@@ -107,7 +106,7 @@ Siyi Wei, Jinhui Zhang<sup>*</sup>, <u>Zhiwei Wu</u>, Duanduan Chen
 
 [Kirchhoff rod-based three-dimensional dynamical model and real-time simulation for medical-magnetic guidewires](https://www.sciencedirect.com/science/article/pii/S0169260723003115?via%3Dihub)
 
-|Computer Methods and Programs in Biomedicine|06-08-2023|IF:7.027|JCR Q1|中科院 2区 Top期刊|
+|Computer Methods and Programs in Biomedicine|06-08-2023|IF:7.027|JCR Q1|中科院2区 Top期刊|
 
 <u>Zhiwei Wu</u>, Jinhui Zhang<sup>*</sup>, Siyi Wei, Duanduan Chen
 </div>
