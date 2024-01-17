@@ -56,6 +56,22 @@ About to start
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TBME</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+TPAFNet: Transformer-Driven Pyramid Attention Fusion Network for 3D Medical Image Segmentation
+
+IEEE Transactions on Biomedical Engineering
+
+Zheng, Li, Jinhui Zhang<sup>*</sup>, Siyi Wei, Yueyang Gao, Chengwei Cao, and <u>Zhiwei Wu</u>
+
+---
+
+Under review
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMECH</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -95,7 +111,7 @@ Under Review
 
 [Magnetic Robot for Endovascular Intervention: Performance Evaluation](https://doi.org/10.1109/TIE.2023.3340205)
 
-|IEEE Transactions on Industrial Electronics |18-11-2023|IF:7.7|JCR Q1|中科院1区 Top期刊|
+|IEEE Transactions on Industrial Electronics |18-11-2023|IF:7.7|JCR Q1|中科院1区 Top|
 
 Siyi Wei, Jinhui Zhang<sup>*</sup>, <u>Zhiwei Wu</u>, Duanduan Chen
 </div>
@@ -106,7 +122,7 @@ Siyi Wei, Jinhui Zhang<sup>*</sup>, <u>Zhiwei Wu</u>, Duanduan Chen
 
 [Kirchhoff rod-based three-dimensional dynamical model and real-time simulation for medical-magnetic guidewires](https://www.sciencedirect.com/science/article/pii/S0169260723003115?via%3Dihub)
 
-|Computer Methods and Programs in Biomedicine|06-08-2023|IF:7.027|JCR Q1|中科院2区 Top期刊|
+|Computer Methods and Programs in Biomedicine|06-08-2023|IF:7.027|JCR Q1|中科院2区 Top|
 
 <u>Zhiwei Wu</u>, Jinhui Zhang<sup>*</sup>, Siyi Wei, Duanduan Chen
 </div>
