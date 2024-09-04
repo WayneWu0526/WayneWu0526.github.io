@@ -40,19 +40,19 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications (Graduated Student)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJWR</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TRO</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
-Magnetic Manipulating Medical Soft Continuum Robots
+Design and Control of Magnetic-Actuated Multi-Robot System for Endovascular Navigation
 
-International Journal of Water Research 
+IEEE Transactions on Robotics
 
-<u>Zhiwei Wu</u>, Jinhui Zhang<sup>*</sup>
+Siyi, Wei (332166), <u>Zhiwei Wu</u>, Gao, Yueyang, Huang, Xiaobing, Luo, Jiahao, Jinhui Zhang<sup>*</sup>
 
 ---
 
-About to start
+Under Review
 </div>
 </div>
 
@@ -60,19 +60,19 @@ About to start
 <div class='paper-box-text' markdown="1">
 
 
-TPAFNet: Transformer-Driven Pyramid Attention Fusion Network for 3D Medical Image Segmentation
+End-to-end Manipulation of Magnetic Soft Continuum Robots Using Single Permanent Magnet
 
-IEEE Transactions on Biomedical Engineering
 
-Zheng, Li, Jinhui Zhang<sup>*</sup>, Siyi Wei, Yueyang Gao, Chengwei Cao, and <u>Zhiwei Wu</u>
+
+<u>Zhiwei Wu</u>, Siyi Wei, Ruihan Liu, Zheng Li, Chengwei Cao, Jinhui Zhang<sup>*</sup>
 
 ---
 
-Under review
+Comming soon
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMECH</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMECH</div><img src='images/2024paper1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
@@ -84,7 +84,7 @@ IEEE/ASME Transactions on Mechatronics
 
 ---
 
-Under review
+Minor Revision
 </div>
 </div>
 
