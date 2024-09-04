@@ -76,7 +76,7 @@ Comming soon
 <div class='paper-box-text' markdown="1">
 
 
-Closed-Loop Magnetic Control of Medical Soft Continuum Robots for Deflection
+[Closed-Loop Magnetic Control of Medical Soft Continuum Robots for Deflection](https://arxiv.org/abs/2408.03017)
 
 IEEE/ASME Transactions on Mechatronics
 
@@ -106,7 +106,6 @@ Under Review
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIE</div><img src='images/2023paper1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 
 
 [Magnetic Robot for Endovascular Intervention: Performance Evaluation](https://doi.org/10.1109/TIE.2023.3340205)
