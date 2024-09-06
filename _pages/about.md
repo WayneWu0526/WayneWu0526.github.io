@@ -49,7 +49,7 @@ Design and Control of Magnetic-Actuated Multi-Robot System for Endovascular Navi
 
 IEEE Transactions on Robotics
 
-Siyi, Wei (332166), <u>Zhiwei Wu</u>, Gao, Yueyang, Huang, Xiaobing, Luo, Jiahao, Jinhui Zhang<sup>*</sup>
+Siyi Wei, <u>Zhiwei Wu</u>, Gao, Yueyang, Huang, Xiaobing, Luo, Jiahao, Jinhui Zhang<sup>*</sup>
 
 ---
 
@@ -73,7 +73,7 @@ Comming soon
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMECH</div><img src='images/2024paper2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMRB</div><img src='images/2024paper2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Telemanipulated Vascular Intervention System for Minimally Invasive Surgery
