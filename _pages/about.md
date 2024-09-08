@@ -33,11 +33,6 @@ My research interest includes neural machine translation and computer vision. I 
 *2023.06.05* &nbsp;🎉🎉 Congratulations on the acceptance of the paper in Computer Methods and Procedures in Biomedicine!
 
 *2022.07.09* &nbsp;🎉🎉 Received an offer of admission (academic graduate student) from the School of Automation, Beijing Institute of Technology!
-<!--
-
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
--->
 
 # 📝 Publications (Graduated Student)
 
@@ -57,7 +52,7 @@ Under Review
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TBME</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">  </div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
@@ -84,7 +79,7 @@ Siyi Wei, <u>Zhiwei Wu</u>, Jinhui Zhang<sup>*</sup>, Shaomeng Gu, Zhanxin Geng,
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BBE</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMECH</div><img src='images/2024paper1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
@@ -156,7 +151,8 @@ Siyi Wei, Jinhui Zhang<sup>*</sup>, <u>Zhiwei Wu</u>, Duanduan Chen
 
 # 📖 Educations
 
-- *2022.09 - 2025.06 (now)*, Post-graduate, Automation School, Beijing Institute of Technology, Beijing.
+- *2024.09 - 2028.06 (now)*, Ph.D Candidate, Automation School, Beijing Institute of Technology, Beijing.
+- *2022.09 - 2024.06*, Post-graduate, Automation School, Beijing Institute of Technology, Beijing.
 - *2018.09 - 2022.06*, Undergraduate, College of Information Science and Technology, Beijing University of Chemical Technology, Beijing. 
 
 <!--
