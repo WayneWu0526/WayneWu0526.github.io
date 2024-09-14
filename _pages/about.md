@@ -26,6 +26,8 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 
 # 🔥 News
+*2024.09.14* &nbsp;🎉🎉 Congratulations on the acceptance of the paper in IEEE/ASME Transactions on Mechatronics!
+
 *2024.09.06* &nbsp;🎉🎉 Congratulations on the acceptance of the paper in IEEE Transactions on Medical Robotics and Bionics!
 
 *2023.11.18* &nbsp;🎉🎉 Congratulations on the acceptance of the paper in IEEE Transactions on Industrial Electronics!
@@ -85,13 +87,9 @@ Siyi Wei, <u>Zhiwei Wu</u>, Jinhui Zhang<sup>*</sup>, Shaomeng Gu, Zhanxin Geng,
 
 [Closed-Loop Magnetic Control of Medical Soft Continuum Robots for Deflection](https://arxiv.org/abs/2408.03017)
 
-IEEE/ASME Transactions on Mechatronics
+|IEEE/ASME Transactions on Mechatronics|Early Accept|IF:6.1|JCR Q1|中科院1区 Top|
 
 <u>Zhiwei Wu</u>, Jinhui Zhang<sup>*</sup>
-
----
-
-Minor Revision
 </div>
 </div>
 
