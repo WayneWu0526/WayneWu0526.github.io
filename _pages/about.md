@@ -26,6 +26,8 @@ My research interest includes neural machine translation and computer vision. I 
 -->
 
 # 🔥 News
+*2025.03.04* &nbsp;🎉🎉 Congratulations on the acceptance of the paper in IEEE/ASME Transactions on Mechatronics!
+
 *2024.09.14* &nbsp;🎉🎉 Congratulations on the acceptance of the paper in IEEE/ASME Transactions on Mechatronics!
 
 *2024.09.06* &nbsp;🎉🎉 Congratulations on the acceptance of the paper in IEEE Transactions on Medical Robotics and Bionics!
@@ -38,35 +40,46 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications (Graduated Student)
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMECH</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+Multimodal Motion Control of Magnetic Continuum Robot for Endovascular Intervention Navigation
+
+|IEEE/ASME Transactions on Mechatronics|Early Accept|IF:6.1|JCR Q1|中科院1区 Top|
+
+Siyi Wei, <u>Zhiwei Wu</u>, Jinhui Zhang<sup>*</sup>
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TRO</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Intuitive Manipulation of Magnetic Soft Continuum Robots using One Robot-Manipulated Magnet
+
+IEEE Transactions on Robotics
+
+<u>Zhiwei Wu</u>, Siyi Wei, Jiahao Luo, Yueyang Gao, Zheng Li, Chengwei Cao, Zhanxin Geng, Jinhui Zhang<sup>*</sup>
+
+---
+
+Comming soon
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TASE</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
 Design and Control of Magnetic-Actuated Multi-Robot System for Endovascular Navigation
 
-IEEE Transactions on Robotics
+IEEE Transactions on Automation Science and Engineering
 
 Siyi Wei, <u>Zhiwei Wu</u>, Gao, Yueyang, Huang, Xiaobing, Luo, Jiahao, Jinhui Zhang<sup>*</sup>
 
 ---
 
 Under Review
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">  </div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-
-End-to-end Manipulation of Magnetic Soft Continuum Robots Using Single Permanent Magnet
-
-
-
-<u>Zhiwei Wu</u>, Siyi Wei, Ruihan Liu, Zheng Li, Chengwei Cao, Jinhui Zhang<sup>*</sup>
-
----
-
-Comming soon
 </div>
 </div>
 
@@ -90,22 +103,6 @@ Siyi Wei, <u>Zhiwei Wu</u>, Jinhui Zhang<sup>*</sup>, Shaomeng Gu, Zhanxin Geng,
 |IEEE/ASME Transactions on Mechatronics|Early Accept|IF:6.1|JCR Q1|中科院1区 Top|
 
 <u>Zhiwei Wu</u>, Jinhui Zhang<sup>*</sup>
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BBE</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-
-Soft Continuum Magnetically Actuated Guidewire with Steerable Motility and Morphology for Percutaneous Transluminal Angioplasty
-
-Biocybernetics and Biomedical Engineering
-
-Siyi Wei, Jinhui Zhang<sup>*</sup>, <u>Zhiwei Wu</u>, Duanduan Chen
-
----
-
-Under Review
 </div>
 </div>
 
